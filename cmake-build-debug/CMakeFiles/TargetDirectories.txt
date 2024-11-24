@@ -1,0 +1,3 @@
+C:/Users/Acer/Desktop/2 курс/алгосы/SET 3/A1i/cmake-build-debug/CMakeFiles/A1i.dir
+C:/Users/Acer/Desktop/2 курс/алгосы/SET 3/A1i/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Desktop/2 курс/алгосы/SET 3/A1i/cmake-build-debug/CMakeFiles/rebuild_cache.dir

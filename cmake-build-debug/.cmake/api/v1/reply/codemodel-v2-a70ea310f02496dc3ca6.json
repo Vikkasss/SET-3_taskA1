@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A1i",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A1i::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A1i-Debug-686dc9e73e40cefe5686.json",
+					"name" : "A1i",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Acer/Desktop/2 \u043a\u0443\u0440\u0441/\u0430\u043b\u0433\u043e\u0441\u044b/SET 3/A1i/cmake-build-debug",
+		"source" : "C:/Users/Acer/Desktop/2 \u043a\u0443\u0440\u0441/\u0430\u043b\u0433\u043e\u0441\u044b/SET 3/A1i"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
